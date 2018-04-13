@@ -1,0 +1,1 @@
+scene camera might have been slightly rotated at depth 2.75, so the whole plane might be compromised
